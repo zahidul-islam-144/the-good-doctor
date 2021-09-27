@@ -11,6 +11,6 @@ https://the-good-doctors-by-zahidul-islam.netlify.app
 
 The Good Doctor 
 
-. This is an idea where doctors are found to get hired in any hospital.
-. Here hospital management can see thier demand. 
-. Can see their time when he/she is available to get hired.
+1. This is an idea where doctors are found to get hired in any hospital.
+2. Here hospital management can see thier demand. 
+3. Can see their time when he/she is available to get hired.

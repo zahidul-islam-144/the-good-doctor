@@ -1,0 +1,13 @@
+.card-container{
+    border: 1px solid black;
+    margin-right: 5px;
+    box-shadow: inset 0px 0px 10px -4px lightgrey;
+    height: 200px;
+    border-radius: 5px;
+    background-color: blue;
+    color: white;
+}
+.card-container .card-body h5{
+    text-align: center;
+    margin-bottom: 20px;
+}

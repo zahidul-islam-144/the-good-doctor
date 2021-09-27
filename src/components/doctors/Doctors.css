@@ -1,0 +1,12 @@
+.doctors-container {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  margin: 20px 0 0 5px;
+  position: relative;
+}
+.profile-container {
+  border-right: 1px solid lightgrey;
+  margin-right: 5px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}

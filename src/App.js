@@ -1,7 +1,7 @@
 // import './App.css';
 
-import Doctors from "./components/doctors/Doctors";
-import Header from "./components/header/Header";
+import Doctors from "./components/Doctors/Doctors";
+import Header from "./components/Header/Header";
 
 function App() {
   return (

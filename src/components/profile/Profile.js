@@ -4,7 +4,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faUserMd } from '@fortawesome/free-solid-svg-icons';
 
 const Profile = (props) => {
-    // console.log(props.profile);
+    // console.log(props.profile); // doctor + handleAddToCart 2tai ache ei props er moddhe
     const {name, img, expertise, free_time, hired_amount} = props.profile;
     return (
         <div className='card-item'>
